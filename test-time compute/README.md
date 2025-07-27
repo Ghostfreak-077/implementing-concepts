@@ -22,7 +22,7 @@ _(The results are yet to be calculated)_
 
 ## References
 - Article: [HuggingFaceH4/blogpost-scaling-test-time-compute](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
-- Beeching, Edward, and Tunstall, Lewis, and Rush, Sasha, "Scaling test-time compute with open models.", 2024.
+- Paper: Beeching, Edward, and Tunstall, Lewis, and Rush, Sasha, "Scaling test-time compute with open models.", 2024.
 
 ## Contributing
 If you'd like to contribute to the code, please refer to `contribute.md` in the root folder
